@@ -1,0 +1,317 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The triumphs of four nations; or, A happy conclusion of peace, betwixt England, France, Denmark, and Holland. As it was confirm'd on Sunday night July the 21, at Breda; where ... the plenipotentiaries ... signed the Articles of Peace ... Tune is, Packingtons pound.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06199</idno>
+            <idno type="STC">Wing T2295A</idno>
+            <idno type="STC">ESTC R185522</idno>
+            <idno type="EEBO-CITATION">47012685</idno>
+            <idno type="OCLC">ocm 47012685</idno>
+            <idno type="VID">174652</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06199)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174652)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2693:40)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The triumphs of four nations; or, A happy conclusion of peace, betwixt England, France, Denmark, and Holland. As it was confirm'd on Sunday night July the 21, at Breda; where ... the plenipotentiaries ... signed the Articles of Peace ... Tune is, Packingtons pound.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Thackeray ...</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[1667]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication taken from Wing (2nd ed.)</note>
+                  <note>Contains 1 illustration.</note>
+                  <note>"With allowance."</note>
+                  <note>Right half-sheet contains: The second part, to the same tune.</note>
+                  <note>Reproduction of original in: University of Glasgow. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+               <term>Anglo-Dutch War, 1664-1667</term>
+               <term>Great Britain --  Foreign relations --  1660-1688.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-03</date>
+            <label>Elspeth Healey</label>Sampled and proofread</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:174652:1"/>
+            <!-- PDF PAGE 11 -->
+            <head>The Triumphs of four Nations; OR, A happy Concluſion of Peace, Betwixt <hi>England, France, Denmark,</hi> and <hi>Holland.</hi>
+            </head>
+            <argument>
+               <p>
+                  <hi>As it was confirm'd on Sunday night <hi>July</hi> the 21. at <hi>Breda;</hi> where, after four hours Conference in the Caſtle, the Plenipotentiaries about nine in the evening ſigned the Articles of Peace; which <hi>Don Mounſieur Fleming,</hi> the Sweediſh Mediatour, in a ſhort Speech Congratulated the happy iſſue of ſo great a work; After which, the Plenipotentiaries ſaluting and complementing each other, the Conference ended: As they came out of the Caſtle, the Canons were thrice diſcharged round the Town, the Muſqueteers giving their vollies from the Works, and the Horſe drawn up upon the Plain, ſaluting them with their Trumpets, the whole Town quitting their Houſes to expreſſe their Joy to them as they paſſed by; This Joyful News was brought on Friday laſt <hi>July</hi> 26. from <hi>Breda,</hi> by the Right Worſhipful Sir <hi>John Coventry,</hi> to the King, bringing with him the Articles of Peace, as they were Signed there by the Plenipotentiaries.</hi>
+               </p>
+            </argument>
+            <opener>Tune is, Packingtons Pound.</opener>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>LIft up thy bead <hi>England</hi> &amp; lay by thy mourning,</l>
+               <l>thy much deſir'd long abſent <hi>Peace</hi> is returning</l>
+               <l>Like health after ſickneſſe, and eaſe after pain;</l>
+               <l>Like joy after ſorrow, or Sun after Rain:</l>
+               <l>The ſound of it comes.</l>
+               <l>Muc<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> w<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ter than Drums,</l>
+               <l>And more welcom is unto all the Kingdoms;</l>
+               <l>
+                  <hi>By Truth, Love and friendſhip, delights do encreaſe,</hi>
+               </l>
+               <l>
+                  <hi>The Joyes of a Nation is Plenty and Peace.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Laſt <hi>Sunday</hi> was ſennigh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> at <hi>Breday</hi> 'twas paſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Which I hope will p<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e all our comforts at l<gap reason="illegible" resp="#UOM" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>
+               </l>
+               <l>The Plenipotentiaris ſigned to peace,</l>
+               <l>That our <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> up trading might have a releaſe</l>
+               <l>The townſmen did laugh,</l>
+               <l>Reioyce, ſing, and quaffe,</l>
+               <l>Thrice round about <hi>Breda</hi> the Canons <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>The Musketeers made many vollies to rattle,</l>
+               <l>And Trumpets did ſound as in heat of a Battle,</l>
+               <l>
+                  <hi>By Truth, &amp;c.</hi>
+               </l>
+            </lg>
+            <div n="2" type="part">
+               <head>The Second Part,</head>
+               <opener>to the ſame Tune.</opener>
+               <lg>
+                  <l>SIr <hi>John Coventry</hi> unto <hi>White-hall</hi> did bring,</l>
+                  <l>Laſt <hi>Friday</hi> this happy brave News to the King</l>
+                  <l>Which fill'd all their hearts with ſuch pleaſure &amp; joy,</l>
+                  <l>They caſt up their Caps &amp; ſung <hi>Vive le Roy,</hi>
+                  </l>
+                  <l>That we do agree,</l>
+                  <l>With our Enemy,</l>
+                  <l>The <hi>Dane, Dutch,</hi> and <hi>French</hi> are as joyful as we</l>
+                  <l>The <hi>Dutch</hi> who in victual did not ſo abound,</l>
+                  <l>Paid more for an ounce than we paid for a pound.</l>
+                  <l>
+                     <hi>By Truth, Love &amp; Friendſhip, delights do increaſe.</hi>
+                  </l>
+                  <l>
+                     <hi>The ſtrength of a Nation is Plenty and Peace.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>The <hi>French-man</hi> hath reaſon this peace to deſire</l>
+                  <l>Becauſe he hath many more Irons i'th fire;</l>
+                  <l>The <hi>Dane</hi> without trading will never grow rich</l>
+                  <l>The beſt of his Lading is Fir-pole and Pitch;</l>
+                  <l>Then let us with joy,</l>
+                  <l>Our <hi>Talent</hi> employ,</l>
+                  <l>And fill Ships with goods that were wont to deſtroy</l>
+                  <l>When Veſſels bare nothing but Powder &amp; Lead,</l>
+                  <l>The Traders and Laders, and trading is dead,</l>
+                  <l>
+                     <hi>By Truth, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Why ſhould we not live all as brother with brother</l>
+                  <l>The Scripture commands us to love one another</l>
+                  <l>Why ſhould not contention and diſſenſion ceaſe,</l>
+                  <l>Since the King of all Kings is the Prince of all Peace</l>
+                  <l>By Union we may,</l>
+                  <l>Both proſper and pray,</l>
+                  <l>By diſcord we do one another betray,</l>
+                  <l>The Devil and Diſcord like Lightning &amp; Thunder</l>
+                  <l>In <hi>June</hi> and <hi>July</hi> are ſeldom aſunder;</l>
+                  <l>
+                     <hi>By Truth, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>If Peace doth continue without and within,</l>
+                  <l>I hope <hi>London</hi> City will be built again,</l>
+                  <l>Which was much retarded for want of a Peace,</l>
+                  <l>For what man can build where no Foundation is;</l>
+                  <l>Without it there's none,</l>
+                  <l>Will build on his own,</l>
+                  <l>Peace is the foundation, &amp; the corner ſtone,</l>
+                  <l>If we have not Peace both upon Sea and Land,</l>
+                  <l>The Cities foundation will be in the Sand,</l>
+                  <l>
+                     <hi>By Truth, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>All workmen from all parts of <hi>England</hi> may comes</l>
+                  <l>To work and get mony without fear of Drum,</l>
+                  <l>The Country man now will to labour be willing,</l>
+                  <l>Not fearing to be burn'd i'th hand with a ſhilling</l>
+                  <l>The Gun and the Drum,</l>
+                  <l>Will ſhortly be dumb,</l>
+                  <l>Then <hi>Madge</hi> may have <hi>Roger,</hi> &amp; <hi>Tib</hi> may have <hi>Tom;</hi>
+                  </l>
+                  <l>Now howling, &amp; ſcowl'ng amongſt y<hi rend="sup">e</hi> kind-hearte<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</l>
+                  <l>Shal be leſt with young Wenches for Sweet hearts departed;</l>
+                  <l>
+                     <hi>By Truth, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Our Merchants upon the gréen Ocean ſo curl'd</l>
+                  <l>Shal ſafely paſſe frée to all parts of the world,</l>
+                  <l>And in their déep bottoms bring ſilks and ſlip ſlops</l>
+                  <l>To pleaſe pretty Ladies and Citie wives chops,</l>
+                  <l>Figs, Almonds and Spice,</l>
+                  <l>With Sugar and Rice,</l>
+                  <l>Which is a young Gentle womans Paradice</l>
+                  <l>Then ſilver and gold (ſo dangerous in power)</l>
+                  <l>Life Traitors, ſhall both be committed to th' <hi>Tower</hi>
+                  </l>
+                  <l>
+                     <hi>By Truth, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Then ſinging and Muſick will be in requeſt,</l>
+                  <l>And <hi>Jugge</hi> ſhall be dancing as wel as the beſt,</l>
+                  <l>About the gréen May-pole, with <hi>Gillian</hi> and <hi>Jack,</hi>
+                  </l>
+                  <l>For Ale and Stew'd Pruens for Cuſtard &amp; Cake;</l>
+                  <l>True Charity then,</l>
+                  <l>Will be amongſt men.</l>
+                  <l>Or elſe we may look for theſe troubles agen,</l>
+                  <l>Short comforts wil be in a Nation no doubt,</l>
+                  <l>Where Peace is concludes, and God is left out.</l>
+                  <l>
+                     <hi>By Truth, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>God bleſs this peace to us with a right undeſtand<g ref="char:EOLhyphen"/>ing</l>
+                  <l>Keep our hearts and mindes under his great com<g ref="char:EOLhyphen"/>manding;</l>
+                  <l>God bleſs King &amp; Kingdom and ſend that our hate</l>
+                  <l>Vnto one another in Church and in Stats,</l>
+                  <l>May be nulliff'd,</l>
+                  <l>God kéep us from Price,</l>
+                  <l>Ambition, Wrath, Malice &amp; Diſcord beſide;</l>
+                  <l>when nation fights nation, &amp; brother beats brother</l>
+                  <l>They are like earthen veſſels that break one ano<g ref="char:EOLhyphen"/>ther</l>
+                  <l>
+                     <hi>By Truth, Love, and Friendſhip, &amp;c.</hi>
+                  </l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, Printed for W. Thackeray, next door to the Dolphin in Weſt-Smithfield. With Allowance.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
